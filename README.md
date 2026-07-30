@@ -32,13 +32,7 @@ In the long term, my goal is to become a reliable and high impact software profe
 
 <table>
 <tr>
-<td><b>University of Engineering and Technology, Lahore</b><br/>Bachelor's degree, Computer Science · Sep 2025 – Jun 2029<br/><sub>Project Management · Desktop Application Development · C# · SQL · Web Development</sub></td>
-</tr>
-<tr>
-<td><b>KIPS Education System</b><br/>FSc, Pre-Engineering · May 2023 – Sep 2025 · Grade: A+<br/><sub>Communication · Time Management</sub></td>
-</tr>
-<tr>
-<td><b>National Garrison Secondary School</b><br/>Matriculation, Science · May 2021 – Oct 2023 · Grade: A+</td>
+<td><b>University of Engineering and Technology, Lahore</b><br/>Bachelor's degree, Computer Science · Sep 2025 – Jun 2029<br/></td>
 </tr>
 </table>
 
