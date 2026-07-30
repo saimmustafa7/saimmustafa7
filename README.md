@@ -1,6 +1,6 @@
 <div align="center">
 
-# SAIM MUSTAFA
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjEzMCIgdmlld0JveD0iMCAwIDY0MCAxMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYzNjZGMSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzhCNUNGNiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNkI2RDQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNjAlIiB5PSItNjAlIiB3aWR0aD0iMjIwJSIgaGVpZ2h0PSIyMjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyMSIvPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxNCIgcmVzdWx0PSJibHVyMiIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIyIi8+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJibHVyMSIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iNTAlIiB5PSI1OCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgQXJpYWwsIHNhbnMtc2VyaWYiCiAgICAgICAgZm9udC1zaXplPSI1NiIgZm9udC13ZWlnaHQ9IjgwMCIgbGV0dGVyLXNwYWNpbmc9IjQiCiAgICAgICAgZmlsbD0idXJsKCNncmFkKSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj5TQUlNIE1VU1RBRkE8L3RleHQ+Cjwvc3ZnPgo=" alt="Saim Mustafa" width="600"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=CS+UET%2729;C%23+.NET+%26+SQL+Developer;Exploring+AI%2FML&font=Fira+Code&size=20&pause=1500&color=6366F1&center=true&width=500&height=40&vCenter=true" alt="typing animation" />
 
@@ -26,20 +26,19 @@ Outside of academics and technology, I am an avid esports enthusiast, enjoy play
 
 In the long term, my goal is to become a reliable and high impact software professional — someone who combines technical competence with consistency, problem solving ability, and leadership. I believe strong careers are built through sustained effort, curiosity, and ownership of one's growth.
 
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="dev quote"/>
+</div>
+
 <br/>
 
 ## Education
 
 <table>
 <tr>
-<td><b>University of Engineering and Technology, Lahore</b><br/>Bachelor's degree, Computer Science · Sep 2025 – Jun 2029<br/><sub>Project Management · Desktop Application Development · C# · SQL · Web Development</sub></td>
+<td><b>University of Engineering and Technology, Lahore</b><br/>Bachelor's degree, Computer Science · Sep 2025 – Jun 2029<br/></td>
 </tr>
-<tr>
-<td><b>KIPS Education System</b><br/>FSc, Pre-Engineering · May 2023 – Sep 2025 · Grade: A+<br/><sub>Communication · Time Management</sub></td>
-</tr>
-<tr>
-<td><b>National Garrison Secondary School</b><br/>Matriculation, Science · May 2021 – Oct 2023 · Grade: A+</td>
-</tr>
+  
 </table>
 
 <br/>
@@ -121,9 +120,5 @@ In the long term, my goal is to become a reliable and high impact software profe
 <div align="center">
 
 <a href="https://linkedin.com/in/saimmm"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=saimmustafa7&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="profile views"/>
 
 </div>
