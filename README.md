@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQwIiBoZWlnaHQ9IjEzMCIgdmlld0JveD0iMCAwIDY0MCAxMzAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImdyYWQiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYzNjZGMSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzhCNUNGNiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwNkI2RDQiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8ZmlsdGVyIGlkPSJnbG93IiB4PSItNjAlIiB5PSItNjAlIiB3aWR0aD0iMjIwJSIgaGVpZ2h0PSIyMjAlIj4KICAgICAgPGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNyIgcmVzdWx0PSJibHVyMSIvPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIxNCIgcmVzdWx0PSJibHVyMiIvPgogICAgICA8ZmVNZXJnZT4KICAgICAgICA8ZmVNZXJnZU5vZGUgaW49ImJsdXIyIi8+CiAgICAgICAgPGZlTWVyZ2VOb2RlIGluPSJibHVyMSIvPgogICAgICAgIDxmZU1lcmdlTm9kZSBpbj0iU291cmNlR3JhcGhpYyIvPgogICAgICA8L2ZlTWVyZ2U+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPHRleHQgeD0iNTAlIiB5PSI1OCUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJTZWdvZSBVSSwgQXJpYWwsIHNhbnMtc2VyaWYiCiAgICAgICAgZm9udC1zaXplPSI1NiIgZm9udC13ZWlnaHQ9IjgwMCIgbGV0dGVyLXNwYWNpbmc9IjQiCiAgICAgICAgZmlsbD0idXJsKCNncmFkKSIgZmlsdGVyPSJ1cmwoI2dsb3cpIj5TQUlNIE1VU1RBRkE8L3RleHQ+Cjwvc3ZnPgo=" alt="Saim Mustafa" width="600"/>
+<img src="assets/header-glow.svg" alt="Saim Mustafa" width="600"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=CS+UET%2729;C%23+.NET+%26+SQL+Developer;Exploring+AI%2FML&font=Fira+Code&size=20&pause=1500&color=6366F1&center=true&width=500&height=40&vCenter=true" alt="typing animation" />
 
@@ -36,9 +36,9 @@ In the long term, my goal is to become a reliable and high impact software profe
 
 <table>
 <tr>
-<td><b>University of Engineering and Technology, Lahore</b><br/>Bachelor's degree, Computer Science · Sep 2025 – Jun 2029<br/></td>
+<td><b>University of Engineering and Technology, Lahore</b><br/>Bachelor's degree, Computer Science · Sep 2025 – Jun 2029<br/>></td>
 </tr>
-  
+
 </table>
 
 <br/>
